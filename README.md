@@ -39,3 +39,11 @@
 **Summary:** Find the element that appears more than n/2 times using the Boyer-Moore Voting Algorithm.  
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
+
+---
+
+**Problem:** [RotateArray](https://leetcode.com/problems/rotate-array)  
+**File:** `RotateArray.java`  
+**Summary:** Rotate the array to the right by k steps using array reversal method in-place.  
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
