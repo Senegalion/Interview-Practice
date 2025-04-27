@@ -1,7 +1,7 @@
 package example.java.leetcode.array_string.easy;
 
 /**
- * LeetCode #88 - RemoveDuplicatesFromSortedArray (Easy)
+ * LeetCode #26 - RemoveDuplicatesFromSortedArray (Easy)
  *
  * Given an integer array nums sorted in non-decreasing order,
  * remove the duplicates in-place such that each unique element appears only once.

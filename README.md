@@ -24,11 +24,18 @@
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
 
-
 ---
 
 **Problem:** [RemoveDuplicatesFromSortedArrayII](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
 **File:** `RemoveDuplicatesFromSortedArrayII.java`  
 **Summary:** In-place removal allowing at most two occurrences of each element using a two-pointer approach.  
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
+
+---
+
+**Problem:** [MajorityElement](https://leetcode.com/problems/majority-element)  
+**File:** `MajorityElement.java`  
+**Summary:** Find the element that appears more than n/2 times using the Boyer-Moore Voting Algorithm.  
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
